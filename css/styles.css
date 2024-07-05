@@ -11127,3 +11127,20 @@ section#about {
 h3.mb-5.job-role {
     margin-top: -75px;
 }
+
+#sidebar-wrapper {
+  position: fixed;
+  z-index: 2;
+  right: 0;
+  width: 250px;
+  height: 100%;
+  transition: all 0.4s ease 0s;
+  transform: translateX(250px);
+  background: #B12222;
+  border-left: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+li.sidebar-nav-item {
+  font-family: outfit;
+  font-size: 22px;
+}
