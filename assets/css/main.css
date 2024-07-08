@@ -594,7 +594,7 @@ section,
 @media (max-width: 768px) {
   .hero h2 {
     font-size: 115px !important;
-    margin: 0px 0px -75px 0px !important;
+    margin: 0px 0px -95px 0px !important;
   }
 
   .hero p {
@@ -606,7 +606,7 @@ section,
   }
 
   span.typed-cursor{
-    font-family: The Stamshons; 
+    font-family: 'Shark Heavy ABC', sans-serif;
     font-size: 85px !important; 
     font-weight: 400; 
     color: #B12222;
@@ -625,7 +625,7 @@ section,
 @media (max-width: 425px) {
   .hero h2 {
     font-size: 65px !important;
-    margin: 0px 0px -45px 0px !important;
+    margin: 0px 0px -55px 0px !important;
   }
 
   span.typed {
