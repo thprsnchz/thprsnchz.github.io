@@ -1507,11 +1507,6 @@ section,
 /*--------------------------------------------------------------
 # Starter Section Section
 --------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
-}
-
-
 /*--------------------------------------------------------------
 # CUSTOM CSS
 --------------------------------------------------------------*/
@@ -1603,6 +1598,45 @@ section#portfolio .container {
   color: black;
 }
 
+.portfolio-details-page .breadcrumbs{
+  font-family: 'outfit';
+  font-size: 18px;
+  color: black;
+}
+
+.portfolio-details-page h1{
+  font-family: 'zuume-cut';
+  font-size: 26px;
+  color: black;
+}
+
+section#portfolio-details h2 {
+  font-family: 'zuume-cut';
+  font-size: 45px;
+  font-style: uppercase;
+  color: black;
+}
+
+section#portfolio-details h2 {
+  font-family: 'zuume-cut';
+  font-size: 45px;
+  font-style: uppercase;
+  color: black;
+}
+
+section#portfolio-details h3 {
+  font-family: 'zuume-cut';
+  font-size: 45px;
+  font-style: uppercase;
+  color: black;
+}
+
+section#portfolio-details .container {
+  font-family: 'outfit';
+  font-size: 18px;
+  color: black;
+}
+
 section#services h2 {
   font-family: 'zuume-cut';
   font-size: 45px;
@@ -1652,5 +1686,25 @@ footer h3 {
 footer .container {
   font-family: 'outfit';
   font-size: 18px;
+  color: black;
+}
+
+#portfolio-details h2{
+  font-family: 'zuume-cut';
+  font-size: 45px;
+  font-style: uppercase;
+  color: black;
+}
+
+#services h3{
+  font-family: 'zuume-cut';
+  font-size: 35px;
+  font-style: uppercase;
+  color: black;
+}
+
+#services p{
+  font-family: 'outfit';
+  font-size: 16px;
   color: black;
 }
